@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "430321816245",
+    "firebase_url": "https://coursearch-44c19.firebaseio.com",
+    "project_id": "coursearch-44c19",
+    "storage_bucket": "coursearch-44c19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430321816245:android:0264c206348f6d7af8a4fc",
+        "android_client_info": {
+          "package_name": "dimas.com.coursearch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "430321816245-0pfu3blhov4kulv28u5a66n0r8s4274r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dimas.com.coursearch",
+            "certificate_hash": "bc20549b468eccf8202a989ee41a0c0b2cf184d9"
+          }
+        },
+        {
+          "client_id": "430321816245-u6ppn93u7eqv2luv01bgt9pk77tkpsri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM4w5F-Y6cyr5B4SO7QEgog0YdVBFMfa0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "430321816245-u6ppn93u7eqv2luv01bgt9pk77tkpsri.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
